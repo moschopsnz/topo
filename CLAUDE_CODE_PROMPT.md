@@ -1,8 +1,8 @@
-# Claude Code Prompt: Topo's Scrollytelling Adoption Page
+# Claude Code Prompt: Topo Gigio's Scrollytelling Adoption Page
 
 ## Project Overview
 
-Build a **product-first, story-led single-page website** that tells the story of Topo, a 4-year-old male Standard Grey chinchilla who is looking for a new forever home. The page should use a **scrollytelling pattern** where scrolling reveals each section in sequence, with **sticky visuals that stay anchored** while the narrative text evolves beside or below them.
+Build a **product-first, story-led single-page website** that tells the story of **Topo Gigio**, a 10-year-old male Standard Grey chinchilla (born 2 December 2015) who is looking for a new forever home. The page should use a **scrollytelling pattern** where scrolling reveals each section in sequence, with **sticky visuals that stay anchored** while the narrative text evolves beside or below them.
 
 ## Design Philosophy
 
@@ -59,24 +59,30 @@ Implement a **scroll-triggered reveal system** where:
 
 ### 1. HERO: Introduction
 
-**Sticky Visual:** Full-bleed portrait of Topo, soft grey chinchilla looking at camera
+**Sticky Visual:** Full-bleed portrait of Topo Gigio, soft grey chinchilla looking at camera
 
 **Content:**
-- Section label: "Introduction"
-- Name: **TOPO** (large, bold typography)
-- Tagline: "Smart. Sensitive. Solitary."
-- Subtitle: "A sophisticated companion seeking a quiet home."
-- Primary CTA: "Meet Topo" button
 
-**Quick Stats Strip** (after hero):
-| Age | Sex | Weight |
-|-----|-----|--------|
-| 4 Years | Male | 600g |
+- Name: **TOPO GIGIO** (large, bold typography)
+- Tagline: **"Curious. Cheeky. Entirely his own."**
+- Subtitle: "Meet Topo Gigio — a gentle, intelligent chinchilla with a strong sense of curiosity, a playful streak, and a life shaped by trust, space, and attentive care."
+- Primary CTA: **"Meet Topo"** button with scroll hint "(Scroll to learn his story)"
+
+**Key Stats** (visually understated — small type, generous spacing):
+
+| Age | Sex | Weight | Location |
+|-----|-----|--------|----------|
+| 10 years (born 2 December 2015) | Male | ~750g | Wellington, New Zealand |
 
 **Biography:**
-> "Topo is a Standard Grey chinchilla with a personality that defies the typical 'rodent' stereotype. He values personal space, structural routine, and high-quality dust baths.
+
+> Topo Gigio has lived a calm, carefully considered life.
 >
-> Unlike dogs that demand affection, Topo earns it. He is an observer—watching from his highest ledge, judging your choice of TV show, and occasionally gracing you with a gentle nose boop when the mood strikes him."
+> Raised from a young age in a stable home environment, he has always had space to explore, time to observe, and the freedom to engage on his own terms.
+>
+> He is confident without being demanding, affectionate without being needy, and deeply curious about the world around him. He enjoys human company, communicates clearly, and forms bonds built on familiarity and trust rather than routine handling.
+>
+> This page exists to introduce Topo as he is — his personality, his history, and the kind of environment in which he thrives.
 
 ---
 
@@ -141,7 +147,7 @@ Implement a **scroll-triggered reveal system** where:
 > — **Sarah J.**, Current Foster Mom
 
 **Adoption Note (warning banner):**
-> ⚠️ Chinchillas can live up to 15-20 years. Topo is looking for a long-term commitment and a cool, air-conditioned home.
+> ⚠️ Chinchillas can live 15-20 years. At 10 years old, Topo still has many healthy years ahead — this is still a meaningful, long-term commitment requiring a cool, climate-controlled home.
 
 ---
 
@@ -218,7 +224,7 @@ Implement a **scroll-triggered reveal system** where:
 **Section intro:**
 - Title: "Ready to meet Topo?"
 - Subtitle: "If you believe your home is the sanctuary Topo needs, please share a little about yourself below."
-- Badge: "15+ years of companionship"
+- Badge: "5-10 more years of companionship"
 
 **Form Fields:**
 1. **Your Name** (text input)
@@ -330,9 +336,9 @@ Every major section should have a secondary way to progress or express interest.
 
 - **Warm but sophisticated** – This isn't baby talk; it's appreciating Topo as a unique individual
 - **Informative but not clinical** – Care requirements are presented as features, not barriers
-- **Gently humorous** – "judging your choice of TV show" energy
-- **Honest about commitment** – 15-20 year lifespan is prominently mentioned
+- **Gently characterful** – Let Topo's personality shine through observation and detail
+- **Honest about commitment** – Even at 10, Topo has years ahead; this is still a significant commitment
 
 ---
 
-Build this page to make someone fall in love with Topo and understand exactly what adopting him means. Good luck! 🐭
+Build this page to make someone fall in love with Topo Gigio and understand exactly what adopting him means. Good luck!
