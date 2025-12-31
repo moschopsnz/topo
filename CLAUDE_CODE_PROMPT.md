@@ -86,31 +86,62 @@ Implement a **scroll-triggered reveal system** where:
 
 ---
 
-### 2. TIMELINE: Topo's Journey
+### 2. TIMELINE: Topo Gigio's Story
 
-**Sticky Visual:** Changes with each timeline milestone
+**Sticky Visual:** Changes with each timeline milestone (photos noted per event)
 
 **Section intro:**
-- Title: "Topo's Journey"
-- Subtitle: "From a shy kit to a beloved companion. A look back at the moments that shaped his personality."
+- Title: "Topo Gigio's Story"
+- No subtitle needed — the timeline speaks for itself
 
 **Timeline Events:**
 
-1. **January 2020 – "A Star is Born"**
-   - Image: Baby chinchilla looking curious
-   - "Topo entered the world with big ears and an even bigger heart. His early days were spent snuggling with his siblings and learning the basics of being a chinchilla."
+1. **2015 — Born**
+   - Photos: early litter / baby shots, if available
+   - "Topo Gigio was born on 2 December 2015 in Wellington, New Zealand, to experienced chinchilla owners. From the start, he was healthy, alert, and well cared for during his early weeks with his mother."
 
-2. **June 2021 – "Discovering Dust Baths"**
-   - Image: Chinchilla rolling in dust bath (can include a play icon overlay)
-   - "It didn't take long for Topo to discover his favorite activity. The spin-dry cycle! He loves a good roll in volcanic ash to keep his coat dense and healthy."
+2. **2016 — A New Home**
+   - Photos: first days, early cage setup, small-scale play
+   - "On 18 February 2016, Topo moved into his long-term home in Miramar. He was given space, consistency, and time to settle — learning routines, voices, and the rhythms of daily life."
+   - "This was also when his name settled naturally: Topo Gigio."
 
-3. **December 2022 – "Making Friends"**
-   - Image: Chinchilla sniffing a human hand
-   - "Socialization is key. Topo learned that humans bring treats (mostly dried rose hips) and gentle chin scratches. He's curious, gentle, and rarely bites."
+3. **2017–2018 — Learning the World**
+   - Photos: playtime, climbing, interaction
+   - "As he grew, Topo became confident and exploratory. Rooms were carefully chinchilla-proofed, and supervised free-roaming became part of his normal routine."
+   - "During this period, he learned trust — how to approach people, how to communicate boundaries, and how to engage safely."
 
-4. **Today – "Ready for a Forever Home"** (highlighted as current)
-   - Image: Adult portrait of Topo sitting calmly
-   - "Topo is now a fully grown, healthy male looking for a quiet home with plenty of ledges to jump on. He is potty trained and loves evening playtime."
+4. **2019 — A Lesson in Curiosity**
+   - Photos: optional; can be text-only if preferred
+   - "At around two years old, Topo had his first true learning moment: an unexpected encounter with water during supervised play."
+   - "Handled immediately and calmly, he recovered fully — and quickly learned that swimming was not for him."
+
+5. **2020 — Confidence & Independence**
+   - Photos: confident poses, relaxed posture
+   - "By his fourth year, Topo was fully at ease in his environment. He navigated spaces confidently, explored independently, and chose when to interact."
+   - "His personality became unmistakable: curious, cheeky, and observant — often waiting until the room was empty before testing boundaries."
+
+6. **2021–2022 — Climate & Care**
+   - Photos: custom cage, cooling setup, summer environment
+   - "As environments changed, Topo's setup evolved with him. A custom, climate-controlled living space was built to ensure safe temperatures year-round, including cooling during warmer months — reinforcing the principle that his comfort always came first."
+
+7. **2023 — Trust & Routine**
+   - Photos: interaction, chin scratches, relaxed moments
+   - "Daily rhythms became deeply familiar. Topo enjoyed structured affection, voice recognition, and gentle handling — always on his terms."
+   - "He remained healthy, injury-free, and emotionally expressive, clearly communicating comfort, curiosity, and the occasional complaint."
+
+8. **2024 — Fully Himself**
+   - Photos: everyday life, candid moments
+   - "At nine years old, Topo was settled, self-assured, and deeply bonded to his environment. Unfazed by everyday household noise and confident in his space, he continued to explore, observe, and engage with quiet intelligence."
+
+9. **2025 — A Milestone Year**
+   - Photos: recent portraits, quiet moments
+   - "Topo turned 10 years old in December 2025 — healthy, alert, and unchanged in spirit."
+   - "With a major relocation approaching, careful planning began to ensure his next chapter would offer the same quality of life he had always known."
+
+10. **2026 — Ready for What's Next** (highlighted as current)
+    - Photos: present-day, calm and composed
+    - "This page now exists to help guide Topo into his next home — thoughtfully, responsibly, and with continuity at its heart."
+    - "The goal is not change, but care carried forward."
 
 ---
 
