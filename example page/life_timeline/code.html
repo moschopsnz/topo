@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Topo's Journey</title>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;900&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#ec6d13",
+                        "background-light": "#f8f7f6",
+                        "background-dark": "#221810",
+                    },
+                    fontFamily: {
+                        "display": ["Inter", "sans-serif"]
+                    },
+                    borderRadius: {
+                        "DEFAULT": "0.25rem",
+                        "lg": "0.5rem",
+                        "xl": "0.75rem",
+                        "full": "9999px"
+                    },
+                },
+            },
+        }
+    </script>
+<style>
+        /* Custom scrollbar hiding for clean UI */
+        .no-scrollbar::-webkit-scrollbar {
+            display: none;
+        }
+        .no-scrollbar {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+    </style>
+<style>
+    body {
+      min-height: max(884px, 100dvh);
+    }
+  </style>
+  </head>
+<body class="bg-background-light dark:bg-background-dark transition-colors duration-300">
+<div class="relative flex h-auto min-h-screen w-full flex-col overflow-x-hidden font-display">
+<!-- TopAppBar -->
+<div class="sticky top-0 z-50 flex items-center bg-background-light/90 dark:bg-background-dark/90 backdrop-blur-md p-4 pb-2 justify-between border-b border-gray-200/50 dark:border-gray-800/50">
+<h2 class="text-[#181411] dark:text-white text-lg font-bold leading-tight tracking-[-0.015em] flex-1">Topo</h2>
+<div class="flex items-center justify-end gap-2">
+<button class="flex items-center justify-center rounded-full bg-primary/10 dark:bg-primary/20 p-2 text-primary hover:bg-primary/20 dark:hover:bg-primary/30 transition-colors">
+<span class="material-symbols-outlined text-[20px]">share</span>
+</button>
+</div>
+</div>
+<!-- HeadlineText -->
+<div class="px-5 pt-8 pb-4">
+<h1 class="text-[#181411] dark:text-white tracking-tight text-[40px] font-black leading-[1.1] text-left">Topo's Journey</h1>
+<p class="text-[#897261] dark:text-gray-400 text-lg font-normal leading-relaxed pt-3">From a shy kit to a beloved companion. A look back at the moments that shaped his personality.</p>
+</div>
+<!-- Timeline -->
+<div class="relative flex flex-col px-5 pb-24">
+<!-- Grid Layout for Timeline -->
+<div class="grid grid-cols-[24px_1fr] gap-x-6">
+<!-- Item 1 -->
+<div class="flex flex-col items-center">
+<div class="h-6 w-px bg-gray-200 dark:bg-gray-700"></div>
+<div class="h-3 w-3 rounded-full bg-primary ring-4 ring-background-light dark:ring-background-dark z-10"></div>
+<div class="h-full w-px bg-gray-200 dark:bg-gray-700 -mt-1"></div>
+</div>
+<div class="pb-10 pt-2">
+<span class="inline-block rounded-full bg-primary/10 px-3 py-1 text-xs font-bold uppercase tracking-wider text-primary mb-3">Jan 2020</span>
+<h3 class="text-xl font-bold text-[#181411] dark:text-white mb-2">A Star is Born</h3>
+<div class="group relative mb-3 aspect-[4/3] w-full overflow-hidden rounded-xl bg-gray-100 dark:bg-gray-800 shadow-sm">
+<div class="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div>
+<img alt="Close up of a cute baby chinchilla looking curious" class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105" data-alt="Close up of a cute baby chinchilla looking curious" src="https://lh3.googleusercontent.com/aida-public/AB6AXuC2AALjYpRbZlxiiah4OXRmswO9Icpr8ES5IwyZPESqWimSTLiDJqClEVUuayxwF-hsOb3-Fk66J0zwCPvx1heLXU8sdPDz_WadfPP1nLYag5ZAP-nI_ewd5WSI1MeIQZpr2FsMlP2Yogf8m1WhEUAR5CwAV5AInNQNQrGgYj-HrSFoKpZsxS8HGznhNj-XIg-8dYozYltLL6P5T5PFwmBNCKlN_0TvWH4fK0nQJJwTBzC5g6Nj0eEPfBR1IXUHUX0LL4VVuysl2YU"/>
+</div>
+<p class="text-[#594a3f] dark:text-gray-300 text-base leading-relaxed">
+                        Topo entered the world with big ears and an even bigger heart. His early days were spent snuggling with his siblings and learning the basics of being a chinchilla.
+                    </p>
+</div>
+<!-- Item 2 -->
+<div class="flex flex-col items-center">
+<div class="h-full w-px bg-gray-200 dark:bg-gray-700"></div>
+<div class="h-3 w-3 rounded-full bg-gray-300 dark:bg-gray-600 ring-4 ring-background-light dark:ring-background-dark z-10"></div>
+<div class="h-full w-px bg-gray-200 dark:bg-gray-700 -mt-1"></div>
+</div>
+<div class="pb-10 pt-2">
+<span class="inline-block rounded-full bg-gray-100 dark:bg-gray-800 px-3 py-1 text-xs font-bold uppercase tracking-wider text-gray-500 dark:text-gray-400 mb-3">June 2021</span>
+<h3 class="text-xl font-bold text-[#181411] dark:text-white mb-2">Discovering Dust Baths</h3>
+<div class="group relative mb-3 aspect-video w-full overflow-hidden rounded-xl bg-gray-100 dark:bg-gray-800 shadow-sm">
+<div class="absolute inset-0 flex items-center justify-center z-10">
+<div class="flex h-12 w-12 items-center justify-center rounded-full bg-white/20 backdrop-blur-sm border border-white/50">
+<span class="material-symbols-outlined text-white">play_arrow</span>
+</div>
+</div>
+<img alt="Chinchilla rolling around in a dust bath bowl" class="h-full w-full object-cover opacity-90 transition-transform duration-500 group-hover:scale-105" data-alt="Chinchilla rolling around in a dust bath bowl" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBVQn6TknbxA3kZI7N6A_MviHdl95HTzpja-xrnuoj5Sh2U6qO1UZioepIf-NwXw5H0uIzmWplxkI8GPCVCnKf4LVQqLNMxTKyzQd3g24UjtdJlPRozCWO1g8g56581W3rdHOlBYcR0usbWyZ03AmND8lv2Szx2D34y45484HBxvaz3xPGBqbYvOlsvVGnMkCNfmAYLDZtqP-_TbWlgMtLj0Q3Q1et_pXZxUFFcOzZ9fNgHSBofh193CvPq7_8XuTCUw9pCkcJ_p8Y"/>
+</div>
+<p class="text-[#594a3f] dark:text-gray-300 text-base leading-relaxed">
+                        It didn't take long for Topo to discover his favorite activity. The spin-dry cycle! He loves a good roll in volcanic ash to keep his coat dense and healthy.
+                    </p>
+</div>
+<!-- Item 3 -->
+<div class="flex flex-col items-center">
+<div class="h-full w-px bg-gray-200 dark:bg-gray-700"></div>
+<div class="h-3 w-3 rounded-full bg-gray-300 dark:bg-gray-600 ring-4 ring-background-light dark:ring-background-dark z-10"></div>
+<div class="h-full w-px bg-gray-200 dark:bg-gray-700 -mt-1"></div>
+</div>
+<div class="pb-10 pt-2">
+<span class="inline-block rounded-full bg-gray-100 dark:bg-gray-800 px-3 py-1 text-xs font-bold uppercase tracking-wider text-gray-500 dark:text-gray-400 mb-3">Dec 2022</span>
+<h3 class="text-xl font-bold text-[#181411] dark:text-white mb-2">Making Friends</h3>
+<div class="group relative mb-3 aspect-[4/5] w-full overflow-hidden rounded-xl bg-gray-100 dark:bg-gray-800 shadow-sm">
+<img alt="Chinchilla curiously sniffing a human hand" class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105" data-alt="Chinchilla curiously sniffing a human hand" src="https://lh3.googleusercontent.com/aida-public/AB6AXuArqBBPnBOn39FoWxXdUGAMWrvgPGICsBhKFnnC3RMyc-OyDVekyJo5rEDgdYi8YGEizZrcuqxrKAVhFu6xmHNycuCUbiWngu1Z8vtyTfKYlSSM84j75hlMDruceJrlp3dsk-ZpJV3bTfhyxczpBUM_n2SUGFqgD7gPq4nIvsNij8X4htKWedKFBDcmRDt-XUnZNKH1Qb4-GG2vbFDOF2Lef-1Y6zGGAEzyPo9Sip5QA1Be4eYhh2xaRpycJdTedue7vYyAgm7dJBE"/>
+</div>
+<p class="text-[#594a3f] dark:text-gray-300 text-base leading-relaxed">
+                        Socialization is key. Topo learned that humans bring treats (mostly dried rose hips) and gentle chin scratches. He's curious, gentle, and rarely bites.
+                    </p>
+</div>
+<!-- Item 4 (Current) -->
+<div class="flex flex-col items-center">
+<div class="h-full w-px bg-gray-200 dark:bg-gray-700"></div>
+<div class="h-4 w-4 rounded-full border-4 border-primary bg-background-light dark:bg-background-dark ring-4 ring-background-light dark:ring-background-dark z-10"></div>
+<div class="h-full w-px bg-gradient-to-b from-gray-200 to-transparent dark:from-gray-700 -mt-1"></div>
+</div>
+<div class="pb-4 pt-1">
+<span class="inline-block rounded-full bg-primary text-white px-3 py-1 text-xs font-bold uppercase tracking-wider mb-3 shadow-md shadow-primary/30">Today</span>
+<h3 class="text-xl font-bold text-[#181411] dark:text-white mb-2">Ready for a Forever Home</h3>
+<div class="group relative mb-3 aspect-square w-full overflow-hidden rounded-xl bg-gray-100 dark:bg-gray-800 shadow-sm">
+<img alt="Portrait of an adult grey chinchilla sitting calmly" class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105" data-alt="Portrait of an adult grey chinchilla sitting calmly" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAA5OrsHB7S87OEnQfImfXwzksverL06zhVg1DTzHkHfa0fN7nkl1rzXO3SajvNKA7IEN6bxDeFZCR-GPzfNruaZ337jSTw454SP5KAvr9eVbY8q164Avdz7WO-ZOH1N40sU9iQoS4114bLqpgKIVJf3aT9kGAsQS-TVSVkEpgijc0Cp3CGuuuyvFb7L9AWJvbMybigTlxEYZftO6N9235LKPquv4vNLncqaQFFe_T3evhD8DRPKH-tm_dfd46DJJJa8QQnoN-_jRA"/>
+</div>
+<p class="text-[#594a3f] dark:text-gray-300 text-base leading-relaxed">
+                        Topo is now a fully grown, healthy male looking for a quiet home with plenty of ledges to jump on. He is potty trained and loves evening playtime.
+                    </p>
+</div>
+</div>
+</div>
+<!-- Sticky Bottom FAB / CTA -->
+<div class="fixed bottom-0 left-0 right-0 p-5 bg-gradient-to-t from-background-light via-background-light to-transparent dark:from-background-dark dark:via-background-dark pt-10 pb-6 z-40">
+<button class="w-full flex cursor-pointer items-center justify-center rounded-xl h-14 px-6 bg-primary hover:bg-[#d65f0e] active:scale-[0.98] transition-all shadow-lg shadow-primary/25 text-white text-base font-bold leading-normal tracking-[0.015em] gap-3">
+<span class="material-symbols-outlined text-[24px]">pets</span>
+<span>Inquire to Adopt Topo</span>
+</button>
+</div>
+</div>
+</body></html>

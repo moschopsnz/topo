@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Topo - A Sophisticated Companion</title>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700;900&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#ec6d13",
+                        "background-light": "#f8f7f6",
+                        "background-dark": "#221810",
+                        "text-dark": "#181411",
+                        "text-light": "#f8f7f6",
+                        "accent-brown": "#897261",
+                    },
+                    fontFamily: {
+                        "display": ["Inter", "sans-serif"]
+                    },
+                    borderRadius: {"DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px"},
+                },
+            },
+        }
+    </script>
+<style>
+    body {
+      min-height: max(884px, 100dvh);
+    }
+  </style>
+  </head>
+<body class="bg-background-light dark:bg-background-dark text-text-dark dark:text-text-light font-display antialiased selection:bg-primary/30">
+<!-- Navigation Overlay -->
+<nav class="absolute top-0 left-0 w-full z-50 p-4 flex items-center justify-between bg-gradient-to-b from-black/40 to-transparent">
+<div class="flex items-center gap-2">
+<span class="material-symbols-outlined text-white" style="font-size: 24px;">menu</span>
+</div>
+<div class="text-white text-xs font-bold tracking-[0.2em] uppercase opacity-80">Profile No. 001</div>
+<div class="flex items-center">
+<span class="material-symbols-outlined text-white" style="font-size: 24px;">favorite</span>
+</div>
+</nav>
+<!-- Hero Section -->
+<header class="relative h-[92vh] w-full overflow-hidden bg-background-dark">
+<!-- Background Image -->
+<div class="absolute inset-0 z-0">
+<img alt="Close up portrait of a soft grey chinchilla looking towards the camera" class="h-full w-full object-cover object-center opacity-90" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAS-g_Gc2dI04WSsagm5avd44yBx08dxDoD7I2doWmB26ihm55hPyr0du1PyPn4SL0r8tU_T4MVWYvAcxR6raiZwu5GZtIWy-Rr7zoK51e1kVwLmZbsFCEGZLLjb-ZDi7fsrp2PeLlOpGHGY8t9xV7ahIzeNDLBFdSW6jeJFNn9wIwTC59MEW9m1stvarFF4TRxW-sYC-9eJVtbUI-YkZhjLLkMzv2Ot-DehBP5FKj761IUn3-8Y1fanqEW0ihixMzdX4qUtRwqu-s"/>
+<!-- Gradient Overlay for Text Legibility -->
+<div class="absolute inset-0 bg-gradient-to-t from-background-dark/90 via-background-dark/20 to-transparent"></div>
+</div>
+<!-- Hero Content -->
+<div class="relative z-10 flex h-full flex-col justify-end px-6 pb-12 pt-20">
+<div class="flex flex-col items-start gap-4 max-w-lg">
+<div class="flex flex-col">
+<span class="text-primary text-xs font-bold tracking-[0.2em] uppercase mb-2">Introduction</span>
+<h1 class="text-white text-7xl font-black tracking-tighter leading-[0.85]">
+                        TOPO
+                    </h1>
+</div>
+<div class="h-1 w-12 bg-primary rounded-full my-2"></div>
+<h2 class="text-white/90 text-lg font-light leading-relaxed tracking-wide max-w-xs">
+                    Smart. Sensitive. Solitary.<br/>
+<span class="opacity-70 text-base">A sophisticated companion seeking a quiet home.</span>
+</h2>
+<div class="mt-6 flex flex-col gap-4 w-full">
+<button class="group relative flex w-full max-w-[240px] items-center justify-between overflow-hidden rounded-lg bg-primary px-6 py-4 text-white transition-all hover:bg-primary/90 active:scale-[0.98]">
+<span class="font-bold tracking-wide">Meet Topo</span>
+<span class="material-symbols-outlined transition-transform duration-300 group-hover:translate-x-1">arrow_forward</span>
+</button>
+</div>
+</div>
+<!-- Scroll Indicator -->
+<div class="absolute bottom-4 left-1/2 -translate-x-1/2 animate-bounce opacity-50">
+<span class="material-symbols-outlined text-white">keyboard_arrow_down</span>
+</div>
+</div>
+</header>
+<!-- Main Content Container -->
+<main class="relative bg-background-light dark:bg-background-dark z-20 -mt-4 rounded-t-3xl shadow-[0_-10px_40px_rgba(0,0,0,0.1)] overflow-hidden">
+<!-- Quick Stats Strip -->
+<div class="grid grid-cols-3 divide-x divide-stone-200 dark:divide-stone-800 border-b border-stone-200 dark:border-stone-800 bg-white dark:bg-[#2a1f17]">
+<div class="flex flex-col items-center justify-center p-4 py-6 text-center">
+<span class="material-symbols-outlined text-accent-brown mb-1 text-2xl">cake</span>
+<span class="text-xs text-stone-500 dark:text-stone-400 uppercase tracking-wider">Age</span>
+<span class="font-bold text-text-dark dark:text-text-light">4 Years</span>
+</div>
+<div class="flex flex-col items-center justify-center p-4 py-6 text-center">
+<span class="material-symbols-outlined text-accent-brown mb-1 text-2xl">male</span>
+<span class="text-xs text-stone-500 dark:text-stone-400 uppercase tracking-wider">Sex</span>
+<span class="font-bold text-text-dark dark:text-text-light">Male</span>
+</div>
+<div class="flex flex-col items-center justify-center p-4 py-6 text-center">
+<span class="material-symbols-outlined text-accent-brown mb-1 text-2xl">scale</span>
+<span class="text-xs text-stone-500 dark:text-stone-400 uppercase tracking-wider">Weight</span>
+<span class="font-bold text-text-dark dark:text-text-light">600g</span>
+</div>
+</div>
+<!-- Biography Section -->
+<section class="px-6 py-12 md:px-12 max-w-2xl mx-auto">
+<h3 class="text-primary text-sm font-bold tracking-[0.15em] uppercase mb-3">The Biography</h3>
+<h4 class="text-3xl font-bold text-text-dark dark:text-white mb-6 leading-tight">Not just a pet,<br/>a roommate.</h4>
+<p class="text-stone-600 dark:text-stone-300 leading-relaxed mb-6 font-light text-lg">
+                Topo is a Standard Grey chinchilla with a personality that defies the typical "rodent" stereotype. He values personal space, structural routine, and high-quality dust baths.
+            </p>
+<p class="text-stone-600 dark:text-stone-300 leading-relaxed font-light text-lg">
+                Unlike dogs that demand affection, Topo earns it. He is an observer—watching from his highest ledge, judging your choice of TV show, and occasionally gracing you with a gentle nose boop when the mood strikes him.
+            </p>
+</section>
+<!-- Lifestyle Grid (Product Feature Style) -->
+<section class="bg-white dark:bg-[#1e150e] py-12 px-6">
+<div class="max-w-2xl mx-auto">
+<div class="flex items-center justify-between mb-8">
+<h3 class="text-2xl font-bold text-text-dark dark:text-white">Requirements</h3>
+<span class="text-xs font-bold bg-stone-100 dark:bg-stone-800 px-3 py-1 rounded-full text-stone-500">Care Level: High</span>
+</div>
+<div class="space-y-6">
+<!-- Feature 1 -->
+<div class="flex gap-4 items-start">
+<div class="bg-primary/10 dark:bg-primary/20 p-3 rounded-lg shrink-0 text-primary">
+<span class="material-symbols-outlined">ac_unit</span>
+</div>
+<div>
+<h5 class="font-bold text-text-dark dark:text-white text-lg">Climate Control</h5>
+<p class="text-stone-500 dark:text-stone-400 text-sm leading-relaxed mt-1">Topo requires an environment strictly under 75°F (24°C). Humidity must be kept low. He is a creature of the dry Andes.</p>
+</div>
+</div>
+<!-- Feature 2 -->
+<div class="flex gap-4 items-start">
+<div class="bg-primary/10 dark:bg-primary/20 p-3 rounded-lg shrink-0 text-primary">
+<span class="material-symbols-outlined">nightlight</span>
+</div>
+<div>
+<h5 class="font-bold text-text-dark dark:text-white text-lg">Nocturnal Activity</h5>
+<p class="text-stone-500 dark:text-stone-400 text-sm leading-relaxed mt-1">His day begins when yours ends. Expect the soothing sounds of wooden toys being deconstructed at 2 AM.</p>
+</div>
+</div>
+<!-- Feature 3 -->
+<div class="flex gap-4 items-start">
+<div class="bg-primary/10 dark:bg-primary/20 p-3 rounded-lg shrink-0 text-primary">
+<span class="material-symbols-outlined">nutrition</span>
+</div>
+<div>
+<h5 class="font-bold text-text-dark dark:text-white text-lg">Strict Diet</h5>
+<p class="text-stone-500 dark:text-stone-400 text-sm leading-relaxed mt-1">Timothy hay, high-quality pellets, and filtered water. No fruits, nuts, or seeds. He is a health purist.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Visual Gallery -->
+<section class="py-12 px-4 bg-background-light dark:bg-background-dark">
+<h3 class="text-center text-stone-400 text-xs font-bold tracking-[0.2em] uppercase mb-8">Visual Archives</h3>
+<div class="grid grid-cols-2 gap-3 md:gap-4 max-w-3xl mx-auto">
+<div class="aspect-[3/4] rounded-lg overflow-hidden relative group">
+<img alt="Chinchilla sitting on a wooden ledge looking contemplative" class="w-full h-full object-cover transition duration-700 group-hover:scale-110" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAKxCRzNsgnPgKsLoAS8lpLhTIrAA6R8FURPsqf5v6yX45i5DfqHkqC7oYzz83pKXiUd1cIRIK1klq8mT_Sgzgv72cEMHvK7Ry7S8GBSmSnXLrIJ07Q92qe-8oq6y9z3qRcgc269ywUkhFBAipwIqnSkfRn-Mz4ekBOeIzDoFHJsZ2fKGDbQS_wD9jX0R9Qfpcv_fRRFBgdXdDPyrBhLZMOK4gtdL32WJV-aY-kQmLhNfxzAyjfNy7SAY--9FTTtCaWQYCGGRob8Xk"/>
+<div class="absolute inset-0 bg-black/20 group-hover:bg-transparent transition"></div>
+</div>
+<div class="aspect-[3/4] rounded-lg overflow-hidden relative group mt-8">
+<img alt="Close up of chinchilla whiskers and nose" class="w-full h-full object-cover transition duration-700 group-hover:scale-110" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDKUSHp9ZedKPhhxEyV9aAclOhZA53CHChhheXy0a7ihKvBuLVv0WFibmNjsV_ARiJJyMWthfqd0Exmfl0Jy0-F6AizoiYDEdj7M3GjyjPuovQGc3J01y45VyZ-u3PsKZ7h_xgBBirTN9oSDEXyuIPnh5wF0nAlQNusGEAQZ37Mfxkz2C7fyjFhx7zzoqOhCAe5fs1gJpd61qBrQv-b0M3Fx_Kh1lST8879cTFBuELPlqikKHKfm3vmshabNn19M9XJ7sGW_TJcg2M"/>
+<div class="absolute inset-0 bg-black/20 group-hover:bg-transparent transition"></div>
+</div>
+<div class="aspect-[3/4] rounded-lg overflow-hidden relative group">
+<img alt="Chinchilla holding a small wooden stick" class="w-full h-full object-cover transition duration-700 group-hover:scale-110" src="https://lh3.googleusercontent.com/aida-public/AB6AXuC39PO03wUFRhN_nvj4GXfdUoyQxwobcZFV_HxuahuuW3EC1rFcY8WG9PVlQwFOfwehD9DppwbdskWiQFkpm3CvbCQf5WgXVUihanis8ni66nSbvmgEK9WJ8HautTill9lvCziHyPPdbSjVdC5dWz0fbd8WFxvCELIC2wYx2ZKuvQS9od9JqFcr3YiXaLa4yCD_UCg4QkgVzWiy0zNeLHsHS6s0WGJbnyrK7zIHskqpwOWm8_9wAWl2R6CxmYyHaTzEjtEA4hAREPg"/>
+<div class="absolute inset-0 bg-black/20 group-hover:bg-transparent transition"></div>
+</div>
+<div class="aspect-[3/4] rounded-lg overflow-hidden relative group mt-8">
+<img alt="Chinchilla resting in a soft hammock" class="w-full h-full object-cover transition duration-700 group-hover:scale-110" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBxtrXZj8qINCgMnDtUTv4bN1KpFcjyTOhfA41m1uwo9AA8XqXoTFvex5qB8yP3hDoc5eV_jXw5ubphjqW7p7SWxbtMJi9HPv9GRr44133PZ5nmmntXCN3ZjeAbAZLsVw0psITiswFcf3uQN3jgAFB2QMSBPysNJltifNQ47EkWycMVys7fxWBdeO5PIpsrL-DW32GAryIxmb9aQvmM8kqiiEy2g-1qt8VjJ-6iIAFLqcGZUvuVsiyAcv1bNK3aJiVaeUbA7Fel5tI"/>
+<div class="absolute inset-0 bg-black/20 group-hover:bg-transparent transition"></div>
+</div>
+</div>
+</section>
+<!-- CTA Footer -->
+<footer class="bg-white dark:bg-[#181411] px-6 py-16 text-center border-t border-stone-200 dark:border-stone-800">
+<h2 class="text-3xl font-black text-text-dark dark:text-white mb-4 tracking-tight">Ready for commitment?</h2>
+<p class="text-stone-500 dark:text-stone-400 mb-8 max-w-xs mx-auto">Adopting Topo is a 15-20 year promise of air conditioning and dust.</p>
+<button class="inline-flex h-12 items-center justify-center rounded-lg bg-primary px-8 text-base font-bold text-white shadow-lg shadow-primary/30 transition hover:bg-primary/90 hover:shadow-primary/50">
+                Inquire to Adopt
+            </button>
+<div class="mt-12 flex justify-center gap-6 opacity-40">
+<span class="material-symbols-outlined cursor-pointer hover:text-primary transition">mail</span>
+<span class="material-symbols-outlined cursor-pointer hover:text-primary transition">photo_camera</span>
+<span class="material-symbols-outlined cursor-pointer hover:text-primary transition">location_on</span>
+</div>
+<p class="text-[10px] text-stone-400 mt-8 uppercase tracking-widest">Designed for Topo © 2023</p>
+</footer>
+</main>
+</body></html>

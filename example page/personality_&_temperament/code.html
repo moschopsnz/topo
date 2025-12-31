@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Topo's Profile</title>
+<!-- Fonts -->
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+<!-- Material Symbols -->
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<!-- Tailwind CSS -->
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<!-- Tailwind Config -->
+<script id="tailwind-config">
+      tailwind.config = {
+        darkMode: "class",
+        theme: {
+          extend: {
+            colors: {
+              "primary": "#ec6d13",
+              "background-light": "#f8f7f6",
+              "background-dark": "#221810",
+              "surface-light": "#ffffff",
+              "surface-dark": "#2d2118",
+            },
+            fontFamily: {
+              "display": ["Inter", "sans-serif"]
+            },
+            borderRadius: {"DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "2xl": "1rem", "full": "9999px"},
+          },
+        },
+      }
+    </script>
+<style>
+        body {
+            font-family: 'Inter', sans-serif;
+            -webkit-font-smoothing: antialiased;
+        }
+        .hide-scrollbar::-webkit-scrollbar {
+            display: none;
+        }
+        .hide-scrollbar {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+    </style>
+<style>
+    body {
+      min-height: max(884px, 100dvh);
+    }
+  </style>
+  </head>
+<body class="bg-background-light dark:bg-background-dark text-[#181411] dark:text-[#ede0d9]">
+<div class="relative flex h-auto min-h-screen w-full flex-col overflow-x-hidden font-display pb-24">
+<!-- TopAppBar -->
+<div class="sticky top-0 z-50 flex items-center bg-background-light/95 dark:bg-background-dark/95 backdrop-blur-md p-4 pb-2 justify-between border-b border-black/5 dark:border-white/5">
+<div class="text-[#181411] dark:text-white flex size-12 shrink-0 items-center justify-center rounded-full hover:bg-black/5 dark:hover:bg-white/10 transition-colors cursor-pointer">
+<span class="material-symbols-outlined">arrow_back</span>
+</div>
+<h2 class="text-[#181411] dark:text-white text-lg font-bold leading-tight tracking-[-0.015em] flex-1 text-center">Topo's Profile</h2>
+<div class="flex size-12 items-center justify-center rounded-full hover:bg-black/5 dark:hover:bg-white/10 transition-colors cursor-pointer text-primary">
+<span class="material-symbols-outlined">ios_share</span>
+</div>
+</div>
+<!-- HeaderImage -->
+<div class="@container">
+<div class="w-full h-[450px] relative">
+<div class="absolute inset-0 bg-center bg-no-repeat bg-cover flex flex-col justify-end overflow-hidden" data-alt="Close up high quality portrait of a grey chinchilla with soft fur looking curious" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuBcnZCuBLYtNqq7uZdJQ3bX8h-vViVfyzebZodgp1LAySETiiZ5RAqL99x94prQISbdw0fUNvFyFkgRr2_kpMLeXwzCEPtd5rQYCBGFe9J5G5gw-XwFnn81cFcCknE_eDLsv3aVbrRq7YkcSQYfLco7VMj1uHvOfFIPX7lkqK-TllS2YU_yCzFpfilGVlrPVyiYLoJ_gYDoxGWIqh5xl4zEGpqgcKJ6k4_vhFWW_kPGnBDAuOOweRdJBCzcJhVDbcDNro5spIbF0Mw");'>
+<div class="absolute inset-0 bg-gradient-to-t from-background-light dark:from-background-dark via-transparent to-transparent opacity-90 h-1/2 mt-auto"></div>
+</div>
+</div>
+</div>
+<!-- HeadlineText & BodyText -->
+<div class="relative -mt-12 z-10 px-6">
+<h1 class="text-[#181411] dark:text-white tracking-tight text-[40px] font-extrabold leading-[1.1] mb-2">Meet Topo</h1>
+<p class="text-[#ec6d13] text-lg font-semibold tracking-wide uppercase text-xs mb-4">The Gentleman Explorer</p>
+<p class="text-[#4e433f] dark:text-[#bdaaa1] text-lg font-normal leading-relaxed">
+                A spirited explorer with a heart of gold. Topo isn't just a pet; he's a connoisseur of dust baths and a quiet observer of the world.
+            </p>
+</div>
+<div class="h-8"></div>
+<!-- Quick Stats / Traits Grid -->
+<div class="px-6">
+<div class="grid grid-cols-3 gap-3">
+<!-- Trait 1 -->
+<div class="flex flex-col items-center justify-center p-4 bg-surface-light dark:bg-surface-dark rounded-xl shadow-sm border border-black/5 dark:border-white/5 aspect-square">
+<div class="mb-2 text-primary bg-primary/10 p-2 rounded-full">
+<span class="material-symbols-outlined text-[28px]">lightbulb</span>
+</div>
+<span class="text-xs font-bold text-gray-500 dark:text-gray-400 uppercase tracking-wider text-center">Smart</span>
+</div>
+<!-- Trait 2 -->
+<div class="flex flex-col items-center justify-center p-4 bg-surface-light dark:bg-surface-dark rounded-xl shadow-sm border border-black/5 dark:border-white/5 aspect-square">
+<div class="mb-2 text-primary bg-primary/10 p-2 rounded-full">
+<span class="material-symbols-outlined text-[28px]">bedtime</span>
+</div>
+<span class="text-xs font-bold text-gray-500 dark:text-gray-400 uppercase tracking-wider text-center">Nocturnal</span>
+</div>
+<!-- Trait 3 -->
+<div class="flex flex-col items-center justify-center p-4 bg-surface-light dark:bg-surface-dark rounded-xl shadow-sm border border-black/5 dark:border-white/5 aspect-square">
+<div class="mb-2 text-primary bg-primary/10 p-2 rounded-full">
+<span class="material-symbols-outlined text-[28px]">sound_detection_dog_barking</span>
+</div>
+<span class="text-xs font-bold text-gray-500 dark:text-gray-400 uppercase tracking-wider text-center">Quiet</span>
+</div>
+</div>
+</div>
+<div class="h-10"></div>
+<!-- Personality Scale Section -->
+<div class="px-6">
+<div class="flex items-center gap-3 mb-6">
+<span class="material-symbols-outlined text-primary">tune</span>
+<h3 class="text-[#181411] dark:text-white text-xl font-bold leading-tight tracking-tight">Personality Scale</h3>
+</div>
+<div class="space-y-8">
+<!-- Scale 1 -->
+<div class="group">
+<div class="flex justify-between text-sm font-medium mb-2 text-[#4e433f] dark:text-[#bdaaa1]">
+<span>Independent</span>
+<span class="text-primary font-bold">Affectionate</span>
+</div>
+<div class="h-3 w-full bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden relative">
+<div class="absolute top-0 left-0 h-full bg-primary w-[75%] rounded-full opacity-80"></div>
+<!-- Indicator Dot -->
+<div class="absolute top-1/2 -translate-y-1/2 left-[75%] w-4 h-4 bg-white border-4 border-primary rounded-full shadow-md"></div>
+</div>
+<p class="text-xs text-gray-400 dark:text-gray-500 mt-2 italic">Loves chin scratches but values personal space.</p>
+</div>
+<!-- Scale 2 -->
+<div class="group">
+<div class="flex justify-between text-sm font-medium mb-2 text-[#4e433f] dark:text-[#bdaaa1]">
+<span>Couch Potato</span>
+<span class="text-primary font-bold">Zoomies</span>
+</div>
+<div class="h-3 w-full bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden relative">
+<div class="absolute top-0 left-0 h-full bg-primary w-[85%] rounded-full opacity-80"></div>
+<div class="absolute top-1/2 -translate-y-1/2 left-[85%] w-4 h-4 bg-white border-4 border-primary rounded-full shadow-md"></div>
+</div>
+<p class="text-xs text-gray-400 dark:text-gray-500 mt-2 italic">Active at dusk and dawn with high bursts of energy.</p>
+</div>
+</div>
+</div>
+<div class="h-10"></div>
+<!-- Likes & Dislikes -->
+<div class="px-6">
+<h3 class="text-[#181411] dark:text-white text-xl font-bold leading-tight tracking-tight mb-6">Preferences</h3>
+<div class="grid gap-4">
+<!-- Likes Card -->
+<div class="bg-surface-light dark:bg-surface-dark p-6 rounded-2xl border border-black/5 dark:border-white/5 relative overflow-hidden">
+<div class="absolute top-0 right-0 p-4 opacity-10 pointer-events-none">
+<span class="material-symbols-outlined text-6xl text-primary">favorite</span>
+</div>
+<h4 class="text-lg font-bold text-[#181411] dark:text-white mb-4 flex items-center gap-2">
+<span class="text-primary material-symbols-outlined">favorite</span>
+                        Loves
+                    </h4>
+<ul class="space-y-3">
+<li class="flex items-start gap-3">
+<span class="material-symbols-outlined text-green-500 text-sm mt-1">check_circle</span>
+<span class="text-[#4e433f] dark:text-[#bdaaa1] text-sm leading-snug"><strong>Dust baths:</strong> The highlight of his day, every day.</span>
+</li>
+<li class="flex items-start gap-3">
+<span class="material-symbols-outlined text-green-500 text-sm mt-1">check_circle</span>
+<span class="text-[#4e433f] dark:text-[#bdaaa1] text-sm leading-snug"><strong>Apple sticks:</strong> A crunchy snack he can carry around.</span>
+</li>
+<li class="flex items-start gap-3">
+<span class="material-symbols-outlined text-green-500 text-sm mt-1">check_circle</span>
+<span class="text-[#4e433f] dark:text-[#bdaaa1] text-sm leading-snug"><strong>Free roam:</strong> Exploring the living room (supervised).</span>
+</li>
+</ul>
+</div>
+<!-- Dislikes Card -->
+<div class="bg-surface-light dark:bg-surface-dark p-6 rounded-2xl border border-black/5 dark:border-white/5 relative overflow-hidden">
+<div class="absolute top-0 right-0 p-4 opacity-10 pointer-events-none">
+<span class="material-symbols-outlined text-6xl text-gray-500">thumb_down</span>
+</div>
+<h4 class="text-lg font-bold text-[#181411] dark:text-white mb-4 flex items-center gap-2">
+<span class="text-gray-400 material-symbols-outlined">thumb_down</span>
+                        Loathes
+                    </h4>
+<ul class="space-y-3">
+<li class="flex items-start gap-3">
+<span class="material-symbols-outlined text-red-400 text-sm mt-1">cancel</span>
+<span class="text-[#4e433f] dark:text-[#bdaaa1] text-sm leading-snug"><strong>Loud noises:</strong> Sudden bangs or shouting startle him.</span>
+</li>
+<li class="flex items-start gap-3">
+<span class="material-symbols-outlined text-red-400 text-sm mt-1">cancel</span>
+<span class="text-[#4e433f] dark:text-[#bdaaa1] text-sm leading-snug"><strong>Humidity:</strong> Prefers cool, dry environments below 70°F.</span>
+</li>
+<li class="flex items-start gap-3">
+<span class="material-symbols-outlined text-red-400 text-sm mt-1">cancel</span>
+<span class="text-[#4e433f] dark:text-[#bdaaa1] text-sm leading-snug"><strong>Plastic:</strong> Not safe for chewing, so keep it away!</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="h-10"></div>
+<!-- Quotable Moment / Narrative -->
+<div class="px-6">
+<div class="bg-primary/5 dark:bg-primary/10 rounded-2xl p-8 text-center relative">
+<span class="material-symbols-outlined text-4xl text-primary/30 absolute top-4 left-6">format_quote</span>
+<p class="text-xl md:text-2xl font-display font-medium text-[#181411] dark:text-white leading-relaxed italic relative z-10">
+                    "Topo isn't just a pet, he's a tiny roommate. He greets me every evening by standing on his hind legs, waiting for his chin scratch tax."
+                </p>
+<div class="mt-6 flex items-center justify-center gap-3">
+<div class="w-10 h-10 rounded-full bg-gray-300 bg-cover bg-center" data-alt="Small avatar of foster parent smiling" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuAJz4naIxMcYLxE-r5x4sIOQd_WexslcG8oVGC4DOnh5drHEw4iSerBSPVIzi-myYby6hfmPGpBHi7mBnm5PEsL1J2cwS_nfkOCgNU9NsIZ0Fbr3E34w1gg5_s1CEuY-zkOjmso0OJkkFQNZzTJHc-6Tr92kky_tToeD4WLVI4wnyQBYOFuGTSO9zSTqpG7B5koffRhCBeZ9LGV9JyRwEpPFs77JPn3dq3nhvAag3-NwS_eHqLbHYgAt-ksTMkXZjWXB9r5m3mrBR4");'></div>
+<div class="text-left">
+<p class="text-xs font-bold text-[#181411] dark:text-white uppercase tracking-wide">Sarah J.</p>
+<p class="text-xs text-gray-500">Current Foster Mom</p>
+</div>
+</div>
+</div>
+</div>
+<div class="h-8"></div>
+<!-- Care Note -->
+<div class="px-6 pb-8">
+<div class="flex items-start gap-4 p-4 rounded-lg bg-yellow-50 dark:bg-yellow-900/20 border border-yellow-100 dark:border-yellow-900/30">
+<span class="material-symbols-outlined text-yellow-600 dark:text-yellow-500 shrink-0">info</span>
+<p class="text-sm text-yellow-800 dark:text-yellow-200 leading-normal">
+<strong>Adoption Note:</strong> Chinchillas can live up to 15-20 years. Topo is looking for a long-term commitment and a cool, air-conditioned home.
+                </p>
+</div>
+</div>
+<!-- Sticky FAB -->
+<div class="fixed bottom-6 right-6 z-40">
+<button class="group flex items-center gap-2 bg-primary hover:bg-[#d65f0e] text-white font-bold py-4 px-6 rounded-full shadow-lg shadow-primary/30 transition-all transform hover:scale-105 active:scale-95">
+<span>Inquire to Adopt</span>
+<span class="material-symbols-outlined group-hover:translate-x-1 transition-transform">pets</span>
+</button>
+</div>
+</div>
+</body></html>
