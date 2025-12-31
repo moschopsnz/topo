@@ -145,40 +145,89 @@ Implement a **scroll-triggered reveal system** where:
 
 ---
 
-### 3. PERSONALITY: Temperament & Preferences
+### 3. PERSONALITY: Temperament & Communication
 
-**Sticky Visual:** Close-up portrait showing Topo's expressive features
+**Sticky Visual:** Close-up portrait showing Topo's expressive features; additional photos of interaction moments
 
-**Traits Grid** (3 columns):
-- 🧠 Smart
-- 🌙 Nocturnal
-- 🤫 Quiet
+---
 
-**Personality Scales** (slider-style visualization):
+**Overview:**
 
-| Spectrum | Position | Note |
-|----------|----------|------|
-| Independent ←→ Affectionate | 75% toward Affectionate | "Loves chin scratches but values personal space." |
-| Couch Potato ←→ Zoomies | 85% toward Zoomies | "Active at dusk and dawn with high bursts of energy." |
+> Topo Gigio has a distinct, expressive personality shaped by trust, familiarity, and choice.
+>
+> He is curious, emotionally aware, and communicative — affectionate on his own terms and confident enough to set boundaries when something doesn't feel right. He is not aggressive or demanding, but he is deeply responsive to people who understand him.
 
-**Preferences Cards:**
+---
 
-**❤️ Loves:**
-- ✅ Dust baths – The highlight of his day, every day
-- ✅ Apple sticks – A crunchy snack he can carry around
-- ✅ Free roam – Exploring the living room (supervised)
+**Temperament at a Glance** (visual trait list):
 
-**👎 Loathes:**
-- ❌ Loud noises – Sudden bangs or shouting startle him
-- ❌ Humidity – Prefers cool, dry environments below 70°F
-- ❌ Plastic – Not safe for chewing, so keep it away!
+- **Curious & observant** — mirrors human attention and interest
+- **Affectionate (self-directed)** — seeks contact when he wants it
+- **Cheeky & self-aware** — understands when he's testing limits
+- **Sensitive but resilient** — startles easily, recovers quickly
+- **Highly communicative** — clear vocal and physical signals
+- **Trust-based** — calm and gentle with those he knows
 
-**Foster Quote Block:**
-> "Topo isn't just a pet, he's a tiny roommate. He greets me every evening by standing on his hind legs, waiting for his chin scratch tax."
-> — **Sarah J.**, Current Foster Mom
+---
 
-**Adoption Note (warning banner):**
-> ⚠️ Chinchillas can live 15-20 years. At 10 years old, Topo still has many healthy years ahead — this is still a meaningful, long-term commitment requiring a cool, climate-controlled home.
+**How He Relates to People:**
+
+Topo enjoys human company and is comfortable with close physical presence. He will climb onto shoulders, walk across arms or legs, investigate faces, and gently touch noses — behaviours that indicate trust rather than dependency.
+
+He prefers clear, confident handling. Firm, deliberate strokes feel more reassuring to him than light, uncertain touches, and he settles quickly when he feels physically secure.
+
+**He is particularly fond of:**
+- Chin and ear scratches
+- Gentle head strokes
+- Belly rubs during playtime
+
+*Affection is always initiated by him. Like a cat, he chooses when to engage — and that choice matters.*
+
+---
+
+**Communication & Vocalisation:**
+
+Topo is expressive, though generally quiet.
+
+**He uses:**
+- **Soft nibbling** (never biting) as a sign of trust and comfort
+- **Short barks or warning sounds** to communicate boundaries or mild annoyance
+- **Occasional vocal "singing"** — rare, enthusiastic bursts of sound that appear to be exploratory or playful rather than distress-related
+
+These vocal moments are uncommon (noticed only every few months) and often occur when he seems relaxed and content — as though rediscovering his own voice.
+
+*Understanding these signals is key: what may seem alarming to unfamiliar owners is, in practice, clear and non-aggressive communication.*
+
+---
+
+**Early Attachment & Emotional Awareness:**
+
+From his earliest days, Topo showed a strong capacity for emotional connection.
+
+On his first night away from his mother, he became unsettled and vocalised loudly — settling immediately when held and comforted. Physical closeness and calm voice were enough to reassure him, and he quickly learned that he was safe.
+
+That early need for reassurance has evolved into a secure, confident temperament rather than ongoing anxiety. He is independent, but emotionally aware and responsive.
+
+---
+
+**Sensitivity & Confidence:**
+
+Topo is naturally wary of sudden noises or unfamiliar events, as most chinchillas are. When startled, he will retreat briefly — then return quickly once he understands the situation is safe.
+
+He is notably unfazed by everyday household sounds, including vacuuming and movement, and is confident navigating familiar environments.
+
+---
+
+**Social Suitability:**
+
+Topo is gentle, non-biting, and tolerant, including around calm, supervised children.
+
+**His wellbeing depends on:**
+- Respect for his signals
+- Secure handling
+- An environment that allows him choice and retreat
+
+*He thrives with people who understand chinchilla behaviour and appreciate communication over constant interaction.*
 
 ---
 
