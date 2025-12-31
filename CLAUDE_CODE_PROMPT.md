@@ -231,38 +231,130 @@ Topo is gentle, non-biting, and tolerant, including around calm, supervised chil
 
 ---
 
-### 4. ENVIRONMENT: Habitat Requirements
+### 4. ENVIRONMENT: Ideal Home & Habitat
 
-**Sticky Visual:** Multi-level cage setup or environmental shots
+**Sticky Visual:** Photos of Topo's actual living space, cage setup, free-roaming area
 
-**Section intro:**
-- Title: "The Ideal Habitat"
-- Subtitle: "A chinchilla's environment is the key to their longevity. Topo needs a cool, spacious sanctuary to thrive physically and mentally."
+---
 
-**Critical Stats:**
-| Requirement | Value | Note |
-|-------------|-------|------|
-| Temperature | 60-70°F | 🔴 Critical Requirement |
-| Cage Height | 4ft+ | Minimum Vertical Space |
+**Overview:**
 
-**Housing Essentials:**
-1. **Chin Spin Wheel** – Must be at least 15" diameter to protect their spine. Metal or wood only.
-2. **Wooden Ledges** – Staggered placement to encourage jumping. Kiln-dried pine is safest.
-3. **Hiding Spots** – Fleece hammocks or wooden houses for daytime sleeping privacy.
+> Topo Gigio thrives in an environment designed around space, safety, and calm.
+>
+> He has always lived with generous room to move, explore, and rest — both inside and outside his cage — and his wellbeing is closely tied to having a predictable, chinchilla-safe space where he can act naturally without constant restriction.
 
-**Material Safety Guide** (two-column):
+---
 
-| ✅ Safe | ❌ Unsafe |
-|---------|----------|
-| Kiln-dried Pine | Plastic (Any kind) |
-| Apple Wood | Wire Mesh Floors |
-| Anti-pill Fleece | Cardboard (Ingestion) |
-| Metal (Non-galvanized) | Cedar / Fresh Pine |
+**Space & Freedom:**
 
-**Image Gallery (horizontal scroll on mobile):**
-- Multi-Level Layout – "Focus on vertical height"
-- Dust Bath Station – "Designated cleaning area"
-- Enrichment – "Safe chewing materials"
+Topo is accustomed to significantly more space than is typical for a chinchilla.
+
+Over the years, his usable area has ranged from approximately **8–20 m²**, depending on the home and season. His current setup provides around **8 m² of safe, open floor space**, with his cage positioned within that area rather than acting as his sole enclosure.
+
+**Key principles:**
+- His cage door is often left open, allowing him to move in and out freely
+- The cage functions as his private, elevated sleeping space
+- Free movement is only possible because the room is deliberately chinchilla-proofed
+
+*He prefers sleeping up high, where he can look down on his surroundings — a natural behaviour that has remained consistent throughout his life.*
+
+---
+
+**Flooring & Surfaces:**
+
+Topo has lived primarily on carpeted flooring, which has proven safer for him than loose or peelable materials.
+
+- Carpet reduces the risk of ingestion if chewed
+- Edges are kept out of reach where possible
+- Solid flooring is preferred over wire or grid floors
+
+**Cage floors are always solid, not mesh.** While mesh floors can be easier to clean, solid surfaces significantly reduce the risk of foot injury and long-term discomfort.
+
+---
+
+**Walls, Barriers & Safety:**
+
+Topo is an active jumper and enjoys bouncing off solid surfaces during play.
+
+**For this reason:**
+- Hard walls are safer than cage-style barriers
+- Grid or wire fencing poses a risk to feet and limbs
+- Any barriers used must be secure, smooth, and escape-resistant
+
+*The guiding rule has always been to reduce injury risk before convenience, especially if he is left alone in the space.*
+
+---
+
+**Enrichment & Objects:**
+
+Topo does not require constant toys, but he values purposeful, familiar items.
+
+**He particularly enjoys:**
+- Cardboard tubes (appropriately sized and replaced as he grew)
+- Objects he can move, enter, and climb through
+- Dedicated chew materials provided both inside and outside his cage
+
+*His environment prioritises open movement over clutter.*
+
+---
+
+**Dust Bath:**
+
+Topo has continuous access to a dust bath in his room.
+
+- Dust is refreshed regularly (approximately weekly)
+- Bathing is self-regulated rather than restricted
+- He uses it when he feels the need, not on a schedule
+
+*This has been his routine for many years and works well for him.*
+
+---
+
+**Light, Noise & Rest:**
+
+Topo sleeps during the daytime and is accustomed to a quiet, dim environment.
+
+- Blackout blinds are used to reduce daytime light
+- His room is kept calm while he rests
+- He tolerates household noise when necessary, but his normal routine is quiet
+
+*This mirrors natural chinchilla rhythms and supports good rest.*
+
+---
+
+**Temperature & Climate** (⚠️ Critical):
+
+Temperature control is the **most important environmental requirement**.
+
+Topo has always lived in a carefully managed climate:
+
+| Condition | Range |
+|-----------|-------|
+| **Ideal range** | ~14–18 °C |
+| **Caution zone** | Above ~20 °C |
+| **Heat risk** | Genuine health danger — chinchillas cannot sweat |
+
+**Safeguards used:**
+- Dehumidifier running continuously
+- Active monitoring with temperature sensors
+- Alerts when temperatures rise
+- Air conditioning used during hot periods when needed
+
+*Warm days require active observation, not passive trust.*
+
+---
+
+**The Ideal Home:**
+
+Topo is best suited to a home that can offer:
+
+- ✓ Prior chinchilla experience
+- ✓ A dedicated, chinchilla-proofed space
+- ✓ Solid flooring and safe wall surfaces
+- ✓ Reliable temperature control
+- ✓ Respect for his need for independence and choice
+
+*This section isn't about luxury — it's about continuity.*
 
 ---
 
