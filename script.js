@@ -12,7 +12,7 @@
 
 const IMAGES = {
     hero: {
-        main: "https://lh3.googleusercontent.com/aida-public/AB6AXuAS-g_Gc2dI04WSsagm5avd44yBx08dxDoD7I2doWmB26ihm55hPyr0du1PyPn4SL0r8tU_T4MVWYvAcxR6raiZwu5GZtIWy-Rr7zoK51e1kVwLmZbsFCEGZLLjb-ZDi7fsrp2PeLlOpGHGY8t9xV7ahIzeNDLBFdSW6jeJFNn9wIwTC59MEW9m1stvarFF4TRxW-sYC-9eJVtbUI-YkZhjLLkMzv2Ot-DehBP5FKj761IUn3-8Y1fanqEW0ihixMzdX4qUtRwqu-s",
+        main: "assets/topo_hero.jpeg",
         alt: "Close up portrait of Topo Gigio, a soft grey chinchilla looking towards the camera"
     },
 
