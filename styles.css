@@ -120,7 +120,7 @@ body {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    object-position: center;
+    object-position: 50% 10%;
 }
 
 /* Ultra-wide monitor support - increase hero height to show more of the image */
