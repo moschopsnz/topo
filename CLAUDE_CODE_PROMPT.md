@@ -558,6 +558,236 @@ This isn't about being strict — it's about protecting digestive health and lon
 
 ---
 
+### 5b. CARE ROUTINE: Daily Rhythm & Handling
+
+**Sticky Visual:** Photos of evening routine, playtime, handling moments
+
+---
+
+**Overview:**
+
+> Topo Gigio does best with a predictable rhythm: quiet daytime rest, followed by a consistent evening routine that includes fresh food, a clean environment, and calm social time.
+>
+> Routine is not about rigidity. It's about giving him a stable pattern he can rely on, so he can choose interaction confidently and rest without interruption.
+
+---
+
+**Daily Rhythm:**
+
+**Daytime (Rest)**
+
+Topo generally sleeps during the day. He may occasionally wake briefly for a drink or a short run, but his room is set up to support daytime rest:
+
+- Low light (blackout blinds)
+- Reduced noise where practical
+- Minimal disruption unless necessary
+
+*If visitors arrive during the day, he can be gently roused if needed, but his normal routine prioritises sleep.*
+
+---
+
+**Evening Wake-up (~7pm)**
+
+Around 7pm, Topo's day begins.
+
+**This is the "good morning" check-in:**
+- Open the upper cage door (if closed overnight)
+- Quick water check
+- Open curtains / adjust airflow (weather-dependent)
+- Calm greeting and a little conversation
+- Gentle head / chin scratches if he wants them
+- Room door left open so he can hear and observe the household
+
+*This moment sets the tone: calm, familiar, and unhurried.*
+
+---
+
+**Late Evening Care & Play (10pm–11pm)**
+
+Between 10pm and 11pm (sometimes a little later), the main care routine happens:
+
+- Cage clean (as needed)
+- Water refreshed
+- Food replenished
+- Hay topped up
+- Bedding changed
+- Quick visual health check
+
+**After cleaning, Topo usually has his main social/play time:**
+- Free movement in his chinchilla-proofed room
+- Calm interaction, talking, gentle affection on his terms
+- Extra time on weekends or Fridays when available
+
+---
+
+**Overnight**
+
+Topo is active overnight. His door is often closed mainly for sound isolation (e.g., wheel running), and to keep the household routine consistent.
+
+**A simple verbal "check" helps avoid mistakes before leaving him for the night:**
+- Water ✅
+- Food ✅
+- Hay ✅
+
+*This reduces the chance of a missed refill, especially in warm weather.*
+
+---
+
+**Where He Spends Time:**
+
+Topo mostly stays in his own dedicated room. This is deliberate:
+
+- The room is chinchilla-proofed
+- It's safe for chewing behaviour
+- It avoids household hazards (wires, plastics, furniture damage, etc.)
+
+*Occasionally, he'll be carried for a brief "tour" of the house while being held securely — a way to satisfy curiosity without exposing him to risk.*
+
+---
+
+**Handling & Safety:**
+
+**General Approach**
+
+Topo is a delicate animal. Safe handling is built around two principles:
+
+1. **Security** — he must feel stable and supported
+2. **Gentleness** — firm enough to prevent falls, never squeezing
+
+*He responds best to calm voice and confident movement. Silence and hesitation can make him uncertain.*
+
+---
+
+**How He Likes to Be Held:**
+
+Topo is not typically a "pick-me-up" chinchilla anymore.
+
+When younger, he was more willing to hop onto hands. Around age 4–5, he became more selective about being picked up.
+
+**If he is picked up:**
+- He needs a solid base under his feet
+- He will adjust his hind feet to find balance
+- Once stable, he settles and becomes calm
+
+*He should never be carried in a way that encourages jumping down from height.*
+
+---
+
+**Shoes, Feet, and Movement:**
+
+When in his play space:
+
+- Shoes are avoided where possible
+- Slow steps and constant awareness are essential
+
+Chinchillas can sit very close to feet unexpectedly, and their bones are brittle. Socks/bare feet reduce risk and increase awareness.
+
+*Shoelaces and shoe soles are also highly attractive chew targets.*
+
+---
+
+**Communication & Boundaries:**
+
+**"Mouth as a tool" (not biting)**
+
+Topo uses his front teeth as a way to move things, explore, or communicate.
+
+A common example is feeding time:
+- He may try to gently push or pull a hand away to reach the bowl
+- This can look alarming to unfamiliar handlers, but it is not aggression
+- He does not pierce skin and does not "bite" in the conventional sense
+
+---
+
+**When He's Not Happy:**
+
+Topo communicates displeasure clearly and quickly:
+
+- A bark/grunt-like warning sound
+- A sharp, visible "don't do that" motion
+- Short-lived irritation if boundaries are repeatedly ignored
+
+**He particularly dislikes tail handling** (including accidental contact). If that happens, the right response is simple:
+- Back off
+- Give him space
+- Allow a few minutes to reset
+
+*He typically returns to normal quickly once respected.*
+
+---
+
+**Play Behaviour & Chewing:**
+
+Topo loves chewing and will always investigate anything protruding, loose, or textured — especially:
+
+- Clothing tags and labels
+- Belt leather and belt ends
+- Jeans patches (e.g. leather logo patches)
+
+**This is normal chinchilla behaviour. It's best managed by:**
+- Wearing "Topo-safe" clothes during play time
+- Removing dangling labels
+- Keeping tempting items out of reach where possible
+
+---
+
+**Practical Summary (for a new home):**
+
+Topo thrives when:
+
+- ✓ His evenings follow a predictable rhythm
+- ✓ His space is safe enough for free movement
+- ✓ Handling is confident and supportive
+- ✓ His boundaries are respected
+- ✓ He is allowed to initiate affection
+
+*Routine + trust = a calm, bonded chinchilla.*
+
+---
+
+**⚠️ CRITICAL: Water (Bowl Only)**
+
+Topo has always used a water bowl, not a bottle.
+
+- He has never reliably taken to a water bottle
+- Fresh water is provided daily
+- Bowls are cleaned and refilled as part of his nightly routine
+
+Because hydration is critical, introducing a bottle after ten years is not recommended. A familiar bowl ensures:
+- Immediate access
+- Predictable drinking behaviour
+- No risk of dehydration due to unfamiliar equipment
+
+**Any future home should continue using a water bowl.**
+
+*This is a non-negotiable safety preference, not a convenience choice.*
+
+---
+
+**Sleeping & Resting Spots:**
+
+Topo sleeps almost exclusively inside his enclosed house, positioned at the top of his cage.
+
+- The space is shaded and secure
+- It has a soft, fabric-style base (hammock-like)
+- An external ledge allows him to rest with partial visibility if he chooses
+
+**Approximately 90% of the time, he sleeps inside this house.**
+
+Occasionally, he may nap on a ledge, but his default preference is enclosed, elevated rest.
+
+**This setup supports:**
+- Daytime sleep
+- A sense of safety
+- Natural chinchilla behaviour (height + cover)
+
+**Any future setup should preserve:**
+- ✓ Elevation
+- ✓ Partial enclosure
+- ✓ A soft resting surface
+
+---
+
 ### 6. EXPRESSION OF INTEREST: Adoption Form
 
 **Sticky Visual:** Circular portrait of Topo with a soft glow effect
