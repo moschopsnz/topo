@@ -462,6 +462,102 @@ Topo's care involves a non-negotiable daily routine, including:
 
 ---
 
+**Treats: Used Sparingly, With Intention**
+
+Topo Gigio does not receive routine treats.
+
+Because his daily diet already includes a wide variety of high-quality foods, he naturally treats some of his regular items — particularly whole oats — as rewards in their own right. This helps maintain healthy eating habits and prevents selective feeding.
+
+*Sweet foods are intentionally limited.*
+
+---
+
+**Why Treats Are Restricted:**
+
+Like many chinchillas, Topo has a clear preference for sweet foods. If offered too frequently, he will:
+
+- Begin ignoring his regular meals
+- Hold out for sweet items
+- Disrupt his digestive balance
+
+Rather than negotiating with this behaviour, treats are managed carefully and predictably.
+
+*If sweet foods are reduced or removed entirely, he reliably returns to normal eating within a few days. Consistency matters more than indulgence.*
+
+---
+
+**When Treats Are Given:**
+
+Treats are reserved for specific, infrequent occasions, such as:
+
+- Birthdays or seasonal events (e.g. Christmas)
+- Reuniting after time away
+- Calm introductions to new people
+
+**In social settings, treats serve a practical purpose:**
+- Helping wake him gently during daytime rest
+- Allowing visitors to interact positively
+- Enabling safe, gentle hand-feeding experiences
+
+*This is as much about human education and reassurance as it is about Topo himself.*
+
+---
+
+**Preferred Treat: Goji Berries**
+
+When treats are offered, **goji berries** are used exclusively.
+
+**Reasons for this choice:**
+- Lower moisture content than raisins or cranberries
+- Less stickiness on fur and hands
+- Easy for him to hold and eat
+- Longer shelf life when refrigerated
+
+Goji berries are stored separately (in the fridge) to:
+- Reduce temptation
+- Reinforce that treats are not part of daily feeding
+- Maintain clear boundaries in routine
+
+---
+
+**Treats Previously Tried (and Avoided):**
+
+Earlier in life, raisins and cranberries were used occasionally. While Topo enjoyed them, they were discontinued due to:
+
+- High sugar concentration
+- Sticky residue on fur
+- Less predictable portion control
+
+*Over time, goji berries proved the most manageable and least disruptive option.*
+
+---
+
+**Guiding Principle:**
+
+> Treats are never used to compensate for routine, boredom, or guilt.
+
+Topo's long-term health has benefited from:
+- Controlled sweetness
+- Predictable meals
+- Clear limits
+- Consistent care
+
+*This approach keeps him engaged, healthy, and content — without dependency or dietary conflict.*
+
+---
+
+**Why This Section Matters:**
+
+This isn't about being strict — it's about protecting digestive health and long-term behaviour.
+
+**Topo thrives when:**
+- Food remains familiar
+- Sweet items remain special
+- Appetite is stable
+- Expectations are clear
+
+---
+
 ### 6. EXPRESSION OF INTEREST: Adoption Form
 
 **Sticky Visual:** Circular portrait of Topo with a soft glow effect
