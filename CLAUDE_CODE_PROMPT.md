@@ -358,34 +358,107 @@ Topo is best suited to a home that can offer:
 
 ---
 
-### 5. CARE ROUTINE: Daily Rituals
+### 5. CARE ROUTINE: Nutrition, Water & Bedding
 
-**Sticky Visual:** Soft texture shot of chinchilla fur or daily activity image
+**Sticky Visual:** Photos of food setup, hay, water station, bedding materials
 
-**Section intro:**
-- Title: "A day in the life of Topo"
-- Subtitle: "Consistent care is key to a happy chin. Here is what his daily schedule looks like to ensure he stays healthy and social."
+---
 
-**Daily Schedule (timeline format):**
+**Overview:**
 
-| Time | Activity | Tags | Description |
-|------|----------|------|-------------|
-| 7:00 AM | Morning Refresh | Quick, Essential | Top up Timothy hay and check water bottle. Quick visual health check. |
-| 6:00 PM | Dinner & Dust | Moderate, Hygiene | 1/4 cup of pellets. 15-minute dust bath to keep his coat clean and oil-free. |
-| 8:00 PM | Playtime & Bonding | Social, High Effort | Safe roaming time in a chin-proofed area. This is the best time for bonding. |
+> Topo Gigio's diet and daily care have been built around consistency, quality, and digestive safety.
+>
+> His routine prioritises natural fibre, controlled variety, and fresh preparation — with food, water, and bedding refreshed every single day.
 
-**Handling Guide (accordion/expandable):**
+---
 
-1. **The Scoop Method**
-   - "Topo feels safest when his feet are supported. Place one hand under his chest and scoop his hind legs with the other."
-   - ⚠️ "Always support his weight fully. Do not dangle."
+**Core Diet:**
 
-2. **Approach & Trust**
-   - "Chinchillas are prey animals. Always approach from the side, never from directly above, which simulates a bird of prey."
+Topo's primary diet combines a high-quality commercial chinchilla feed with carefully selected natural plant matter.
 
-3. **⚠️ Critical Warnings** (red-themed)
-   - **Never grab the tail:** This can cause a "fur slip" or serious spinal injury.
-   - **Ribs are floating:** Squeezing too hard can break them. Gentle hands only.
+**Fortified Base:**
+- **Science Selective – Balanced Chinchilla Food**
+- Purchased from Animates
+- Forms the nutritional foundation and ensures balanced vitamins and minerals
+
+---
+
+**Natural Plant Foods (Organic):**
+
+In addition to his base diet, Topo receives a rotating mix of organic dried plants and flowers, selected for safety and variety.
+
+**Ordered from iHerb:**
+- Organic red clover blossoms
+- Cut & sifted hibiscus flowers
+- Whole hawthorn berries
+- Cut & sifted rosehips
+- Whole chamomile flowers
+- Calendula flowers
+- Cut & sifted dandelion leaf
+- Cut & sifted red raspberry leaf
+
+*These are offered in measured quantities, not as free-feed items, and provide enrichment as well as dietary interest.*
+
+---
+
+**Favourite Treat: Whole Oats**
+
+Topo's favourite food is whole oats, sourced from **Quality Bird and Pet Supplies** (Top Flight brand).
+
+**He enjoys:**
+- Holding the oats in his paws
+- Opening the husks himself
+- Eating the grain and discarding the husk
+
+*This food is offered sparingly and deliberately — more as engagement than indulgence.*
+
+---
+
+**Hay (Daily, Unlimited Access):**
+
+Topo always has access to **lucerne hay**, which forms the bulk of his fibre intake.
+
+- Purchased in bulk from **Appletons** (50-litre boxes)
+- Replenished daily
+- Chosen for both quality and practicality
+
+*Hay is available at all times.*
+
+---
+
+**Water:**
+
+Fresh water is provided daily.
+
+- For most of his life, Topo received bottled spring water
+- He now receives filtered tap water, using a household filtration system
+- Water containers are cleaned and refilled every day
+
+---
+
+**Bedding:**
+
+Topo's bedding is changed daily, without exception.
+
+- **Kiln-dried pine shavings** are used
+- Purchased in bulk from **Bunnings** (19 kg bags)
+- Chosen for absorbency, cleanliness, and consistency
+
+*This forms part of his daily hygiene routine and keeps his sleeping area dry and comfortable.*
+
+---
+
+**Daily Care Commitment:**
+
+Topo's care involves a non-negotiable daily routine, including:
+
+- ✓ Refreshing food
+- ✓ Replacing water
+- ✓ Replenishing hay
+- ✓ Changing bedding
+- ✓ Basic visual health checks
+
+*This routine has been maintained consistently over many years.*
 
 ---
 
