@@ -788,29 +788,138 @@ Occasionally, he may nap on a ledge, but his default preference is enclosed, ele
 
 ---
 
-### 6. EXPRESSION OF INTEREST: Adoption Form
+### 6. EXPRESSION OF INTEREST: A Thoughtful Next Step
 
-**Sticky Visual:** Circular portrait of Topo with a soft glow effect
+**Sticky Visual:** Warm portrait of Topo, calm and composed; form appears below or alongside
 
-**Section intro:**
-- Title: "Ready to meet Topo?"
-- Subtitle: "If you believe your home is the sanctuary Topo needs, please share a little about yourself below."
-- Badge: "5-10 more years of companionship"
+---
 
-**Form Fields:**
-1. **Your Name** (text input)
-2. **Email Address** (email input)
-3. **Why are you the right match?** (textarea)
-   - Helper text: "Please mention if you have other pets or children."
-4. **Checkbox:** "I understand this is a long-term commitment."
-   - Subtext: "We carefully review every submission to ensure the perfect match."
-5. **Submit Button:** "Send Expression of Interest"
+**Overview:**
 
-**Secondary Links:**
-- "Read Adoption FAQ"
+> Topo Gigio is not being rehomed casually.
+>
+> This expression of interest exists to ensure that any future home can offer the continuity, safety, and quality of life he has always known.
+>
+> There is no single "perfect" background — but there is a shared set of values that matters.
 
-**Footer:**
-- Paw icon + "Topo & Current Guardians"
+---
+
+**What Matters Most:**
+
+The most important consideration is **confidence** — confidence that Topo's daily care, environment, and long-term wellbeing can continue without compromise.
+
+That confidence may come from:
+- Prior chinchilla experience, or
+- A willingness to learn, follow guidance, and prepare properly
+
+*Experience alone is not enough. Care philosophy matters.*
+
+---
+
+**Environment & Lifestyle Expectations:**
+
+Topo is accustomed to:
+
+- ✓ A dedicated, chinchilla-proofed space
+- ✓ Daily free movement outside his cage
+- ✓ Solid floors, safe walls, and minimal hazards
+- ✓ Careful temperature management
+- ✓ A predictable daily routine
+
+**He is not a cage-only chinchilla.**
+
+*Homes where he would need to remain enclosed full-time are unlikely to be suitable.*
+
+---
+
+**Other Pets:**
+
+Topo is a small, delicate animal.
+
+**Homes with:**
+- Dogs
+- Cats
+- Or other animals with prey instincts
+
+**...are generally not suitable**, particularly because Topo requires supervised freedom outside his cage.
+
+*Safety and calm are non-negotiable.*
+
+---
+
+**Time, Commitment & Cost:**
+
+Topo's care is consistent rather than demanding — but it is not zero-effort.
+
+**Prospective homes should be comfortable with:**
+- Daily food, water, hay, and bedding changes
+- Sourcing quality food (including organic dried plants)
+- Occasional higher upfront costs for supplies
+- Long-term commitment (Topo may live another 10 years)
+
+*Rehoming again in the future is something this process aims to avoid.*
+
+---
+
+**Location & Transition:**
+
+Topo is currently based in **Wellington**.
+
+- Local homes are logistically simpler
+- Longer-distance relocation would require additional planning
+- A careful, supported transition is preferred
+
+*Where practical, understanding his future environment in advance helps ensure a smooth handover.*
+
+---
+
+**Keeping His Name:**
+
+Topo Gigio has responded to his name for nearly ten years.
+
+While any future home is free to choose what feels right, we hope his name can continue with him as part of that continuity.
+
+---
+
+**A Supportive Hand-Over:**
+
+This is not a "handover and disappear" process.
+
+**Where welcome:**
+- Guidance on routine and setup is available
+- Questions are encouraged
+- Occasional updates are appreciated, but never required
+
+*The goal is reassurance, not oversight.*
+
+---
+
+**Expression of Interest Form:**
+
+**Suggested fields/topics:**
+
+1. **Your name** (text input)
+2. **Email address** (email input)
+3. **Your experience with chinchillas** (if any) (textarea)
+4. **Your current and past pets** (textarea)
+5. **Available space and setup** (textarea)
+6. **Temperature control arrangements** (textarea)
+7. **Daily routine and availability** (textarea)
+8. **Location** (text input)
+9. **Any questions or concerns you'd like to discuss** (textarea)
+
+**Note displayed near form:**
+> "There are no trick answers — openness matters more than perfection."
+
+**Submit Button:** "Send Expression of Interest"
+
+---
+
+**Closing Note:**
+
+> Topo has been deeply cared for throughout his life.
+>
+> This process exists to make sure that care continues — calmly, safely, and with respect for who he is.
 
 ---
 
