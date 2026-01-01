@@ -213,12 +213,14 @@ body {
     }
 
     /* Offset story sections to make room for sidebar */
-    .story-section {
+    .story-section,
+    .sidebar-offset {
         margin-left: 45%;
         position: relative;
     }
 
-    .story-section .max-w-3xl {
+    .story-section .max-w-3xl,
+    .sidebar-offset .max-w-3xl {
         max-width: 100%;
         padding-right: 3rem;
         padding-left: 2rem;
