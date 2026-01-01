@@ -123,6 +123,13 @@ body {
     object-position: center;
 }
 
+/* Ultra-wide monitor support - increase hero height to show more of the image */
+@media (min-aspect-ratio: 21/9) {
+    .hero-section {
+        min-height: 130vh;
+    }
+}
+
 .hero-gradient-overlay {
     position: absolute;
     inset: 0;
