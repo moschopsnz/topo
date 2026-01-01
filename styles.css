@@ -126,7 +126,7 @@ body {
 /* Ultra-wide monitor support - increase hero height to show more of the image */
 @media (min-aspect-ratio: 21/9) {
     .hero-section {
-        min-height: 130vh;
+        min-height: 150vh;
     }
 }
 
